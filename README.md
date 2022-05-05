@@ -8,3 +8,4 @@
 - 🗣 multilingual [DeutschA1](https://internalapp.nptel.ac.in/NOC/NOC21/SEM2/Ecertificates/109/noc21-hs79/Course/NPTEL21HS79S2339138803136691.jpg), English, हिंदी
 - 📰 [Resume](https://docs.google.com/document/d/1_SFik5hCHbaAScGY_Upn2pLWRtuYG0UW6fKaMAUSLFw/edit?usp=sharing)
 - blogger at <https://indian-ingenieure.blogspot.com/>
+- Youtuber at <https://www.youtube.com/channel/UCCSsffoAPFq8Zd584k2ECBA>
