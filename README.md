@@ -8,5 +8,6 @@
 - 🗣 multilingual [DeutschA1](https://drive.google.com/file/d/1yvqMAYBfvdDcQ6IbY1bHrPigj7VpjzbW/view?usp=sharing), English, हिंदी
 - 📰 [Resume](https://docs.google.com/document/d/1_SFik5hCHbaAScGY_Upn2pLWRtuYG0UW6fKaMAUSLFw/edit?usp=sharing)
 - blogger at <https://indian-ingenieure.blogspot.com/>
-- 📽 Youtuber at <https://www.youtube.com/channel/UCCSsffoAPFq8Zd584k2ECBA>|
-- <a href="https://www.linkedin.com/in/schwarzchauhan/"><img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"> connect on linked in at </a>
+- 📽 Youtuber at <https://www.youtube.com/channel/UCCSsffoAPFq8Zd584k2ECBA>
+
+<a href="https://www.linkedin.com/in/schwarzchauhan/"><img width="100" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a>
