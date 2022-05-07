@@ -11,4 +11,4 @@
 - 📽 Youtuber at <https://www.youtube.com/channel/UCCSsffoAPFq8Zd584k2ECBA>
 
 <a href="https://www.linkedin.com/in/schwarzchauhan/"><img width="100" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a>
-<a href="https://www.instagram.com/blackychauhan/"><img width="100" height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>
+<a href="https://www.instagram.com/blackychauhan/"><img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>
