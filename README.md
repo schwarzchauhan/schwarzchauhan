@@ -9,4 +9,4 @@
 - 📰 [Resume](https://docs.google.com/document/d/1_SFik5hCHbaAScGY_Upn2pLWRtuYG0UW6fKaMAUSLFw/edit?usp=sharing)
 - blogger at <https://indian-ingenieure.blogspot.com/>
 - 📽 Youtuber at <https://www.youtube.com/channel/UCCSsffoAPFq8Zd584k2ECBA>|
-- connect on linked in at <https://www.linkedin.com/in/schwarzchauhan/>
+- ![](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg) connect on linked in at <https://www.linkedin.com/in/schwarzchauhan/>
