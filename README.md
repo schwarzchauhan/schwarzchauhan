@@ -8,7 +8,7 @@
 - 🗣 multilingual [DeutschA1](https://drive.google.com/file/d/1yvqMAYBfvdDcQ6IbY1bHrPigj7VpjzbW/view?usp=sharing), English, हिंदी
 - 📰 [Resume](https://docs.google.com/document/d/1_SFik5hCHbaAScGY_Upn2pLWRtuYG0UW6fKaMAUSLFw/edit?usp=sharing)
 - blogger at <https://indian-ingenieure.blogspot.com/>
-- active at HelloTalk voice-rooms [@schwarzchauhan](https://www.hellotalk.com/u/schwarzchauhan)
+- active at HelloTalk voice-rooms [@schwarzchauhan](https://www.hellotalk.com/u/schwarzchauhan), learing spanish, teaching some german volunteerly
 - [telegram channel](https://t.me/+vE6NJyNfe7ExMzQ1)
 
 <a href="https://www.linkedin.com/in/schwarzchauhan/" style="margin-right: 30px;"><img width="100" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a>
