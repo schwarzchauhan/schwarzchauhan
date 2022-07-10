@@ -16,4 +16,4 @@
 <a href="https://www.youtube.com/channel/UCCSsffoAPFq8Zd584k2ECBA"><img width="150" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"></a>
 
 
-![schwarz](https://i.ibb.co/0QcSjpp/IMG-20220224-WA0001.jpg)
+![schwarz](https://i.ibb.co/87FcBjr/7e14502c-56cb-4dd8-a867-7c3eb4cad2de.jpg)
