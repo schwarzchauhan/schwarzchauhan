@@ -15,4 +15,5 @@
 <a href="https://www.instagram.com/blackychauhan/" style="margin-right: 30px;"><img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>
 <a href="https://www.youtube.com/channel/UCCSsffoAPFq8Zd584k2ECBA"><img width="150" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"></a>
 
-<img width="300" height="300" src="https://i.ibb.co/Htxk2FJ/32f78e67-7291-4fc0-8159-a4efb0031396.jpg">
+![schwarz](https://i.ibb.co/Htxk2FJ/32f78e67-7291-4fc0-8159-a4efb0031396.jpg)
+
