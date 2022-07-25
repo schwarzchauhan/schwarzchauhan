@@ -7,6 +7,7 @@
 - 📫 How to reach me: [whatsapp](https://wa.me/918221875710?text=hi) or <harsh_11913052@nitkkr.ac.in>...
 - 🗣 multilingual German(upper elementary), English, हिंदी
 - 📰 [Resume](https://docs.google.com/document/d/1_SFik5hCHbaAScGY_Upn2pLWRtuYG0UW6fKaMAUSLFw/edit?usp=sharing)
+- [leetcode profile](https://leetcode.com/usernameharsh/)
 - blogger at <https://indian-ingenieure.blogspot.com/>
 - active at HelloTalk voice-rooms [@schwarzchauhan](https://www.hellotalk.com/u/schwarzchauhan), learing spanish, voluntarily teaching some german
 - [telegram channel](https://t.me/+vE6NJyNfe7ExMzQ1)
