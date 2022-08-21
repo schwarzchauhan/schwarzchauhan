@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on full stack internship projects...
 - 📫 How to reach me: [whatsapp](https://wa.me/918221875710?text=hi) or <harsh_11913052@nitkkr.ac.in>...
 - 🗣 multilingual German(intermediate), English, हिंदी
-- 📰 [Resume](https://docs.google.com/document/d/1_SFik5hCHbaAScGY_Upn2pLWRtuYG0UW6fKaMAUSLFw/edit?usp=sharing)
+- 📰 [Resume](https://drive.google.com/file/d/1MWt9fjTq1-L9JmEGGQ3VAq5bfJLrcR--/view?usp=sharing)
 - [leetcode](https://leetcode.com/usernameharsh/)
 - [codechef](https://www.codechef.com/users/usernameharsh)
 - blogger at <https://indian-ingenieure.blogspot.com/>
