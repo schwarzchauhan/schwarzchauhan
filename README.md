@@ -6,7 +6,7 @@
 - 📰 [Resume](https://drive.google.com/file/d/1MWt9fjTq1-L9JmEGGQ3VAq5bfJLrcR--/view?usp=sharing)
 - [leetcode](https://leetcode.com/usernameharsh/)
 - [codechef](https://www.codechef.com/users/usernameharsh)
-Deutsch, español, English, Hindi
+- Deutsch, español, English, Hindi
 
 <a href="https://www.linkedin.com/in/schwarzchauhan/" style="margin-right: 30px;"><img width="100" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a>
 <a href="https://www.instagram.com/blackychauhan/" style="margin-right: 30px;"><img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>
